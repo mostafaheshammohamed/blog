@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Varela+Round');
+@import url('normalize.css');
+@import url('formalize.css');
+@import url('responsive.gs.12col.css');
+@import url('main.css');
+body {
+    font-family: "Droid Serif", Georgia, serif;
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Varila Round", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+a:hover {
+    color: #2a84bf;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
